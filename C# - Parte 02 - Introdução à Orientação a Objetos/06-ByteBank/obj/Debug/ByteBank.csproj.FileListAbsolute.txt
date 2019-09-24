@@ -1,0 +1,7 @@
+C:\Projetos\Dotnet\Alura DotNet\C# - Parte 02 - Introdução à Orientação a Objetos\06-ByteBank\bin\Debug\06-ByteBank.exe.config
+C:\Projetos\Dotnet\Alura DotNet\C# - Parte 02 - Introdução à Orientação a Objetos\06-ByteBank\bin\Debug\06-ByteBank.exe
+C:\Projetos\Dotnet\Alura DotNet\C# - Parte 02 - Introdução à Orientação a Objetos\06-ByteBank\bin\Debug\06-ByteBank.pdb
+C:\Projetos\Dotnet\Alura DotNet\C# - Parte 02 - Introdução à Orientação a Objetos\06-ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Projetos\Dotnet\Alura DotNet\C# - Parte 02 - Introdução à Orientação a Objetos\06-ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Projetos\Dotnet\Alura DotNet\C# - Parte 02 - Introdução à Orientação a Objetos\06-ByteBank\obj\Debug\06-ByteBank.exe
+C:\Projetos\Dotnet\Alura DotNet\C# - Parte 02 - Introdução à Orientação a Objetos\06-ByteBank\obj\Debug\06-ByteBank.pdb
